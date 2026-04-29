@@ -1,0 +1,11 @@
+.agent.patch
+.agent.review.json
+.agent.log
+__pycache__/
+*.pyc
+.env
+.venv/
+node_modules/
+dist/
+build/
+coverage/
